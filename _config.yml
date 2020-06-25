@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/blerg"
-url: "https://github.com/rickjarrell"
+baseurl: "/"
+url: "https://www.rickjarrell.com"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
