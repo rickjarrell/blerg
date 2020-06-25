@@ -1,4 +1,16 @@
 
+
+
+<footer class="site-header">
+	<nav class="site-nav" align="center">
+		<ul>
+			<!-- Social icons from Font Awesome, if enabled  -->
+			{% include icons.html %}
+		</ul>
+	</nav>
+
+</footer>
+
 {% if site.theme_settings.katex and page.id %}
 <script src="{{ "/assets/js/katex_init.js" | relative_url }}"></script>
 {% endif %}
@@ -8,11 +20,3 @@
 	<p class="text">{{ site.theme_settings.footer_text }}</p>
 </footer>
 {% endif %}
-
-<footer>>
-		<ul>
-			<!-- Social icons from Font Awesome, if enabled  -->
-			{% include icons.html %}
-		</ul>
-
-</footer>
