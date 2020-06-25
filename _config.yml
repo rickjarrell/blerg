@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://rohanchandra.github.io/"
+baseurl: "/blerg"
+url: "https://rickjarrell.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -13,7 +13,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-    
+
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
