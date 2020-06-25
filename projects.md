@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Projects
+permalink: /projects/
 ---
 A few of the projects I devote variable amounts of energy to in my spare time.
 ### Fight the Brain
