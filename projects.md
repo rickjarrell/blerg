@@ -14,4 +14,6 @@ My goal is to better understand my own thought patterns to improve my decision-m
 [Sign up here](http://www.rickjarrell.substack.com).
 
 ### Deep Dives
-Long running project to write deep dives on subjects I feel strongly about and either know a lot or want to learn more. My roadmap includes personal finance, product management, and fitness in your 30s.
+Long running project to write deep dives on subjects I feel strongly about, know a lot about, or want to learn more. Sort of a knowledge base of my brain.
+
+My roadmap includes personal finance, product management, and fitness in your 30s. I'll start to dump them here when they materialize.
